@@ -1,2 +1,3 @@
-# gridsome-blog-skeleton
-Gridsome / Wordpress Blog Skeleton (tailwind.css included)
+# Gridsome blog Skeleton
+
+Gridsome / Wordpress Blog Skeleton
